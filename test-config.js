@@ -23,7 +23,7 @@ exports.config = {
     capabilities : [{
         "platformName": "Android",
         "automationName": "UiAutomator2",
-        "udid": "11041FDD4000EG",
+        "udid": "enter your device UDID",
         "appPackage": "com.realtimeboard",
         "appActivity": ".MainActivity",
         "unicodeKeyboard": true,
