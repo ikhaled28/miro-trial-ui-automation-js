@@ -3,7 +3,7 @@ This project is part of my trial task work at "miro". I tried to automate both L
 
 # Environment setup
  - NodeJS
- - Install appium globally
+ - Install appium globally or Use Appium Desktop's latest version.
  - Download Android SDK and installed
  - Set ANDROID_HOME and JAVA_HOME
 
