@@ -1,14 +1,14 @@
 {
   "name": "miro-test-automation",
   "version": "1.0.0",
-  "description": "",
+  "description": "Trial task work for miro",
   "main": "index.js",
   "scripts": {
     "test": "wdio",
     "report": "allure generate allure-results --clean && allure open"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mohammad Izabul Khaled",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.17.6",
